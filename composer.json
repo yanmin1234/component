@@ -1,6 +1,7 @@
 {
     "name": "ymt/component",
     "description": "test",
+    "license": "MIT",
     "authors": [
         {
             "name": "ym",
