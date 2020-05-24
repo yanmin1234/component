@@ -1,0 +1,18 @@
+{
+    "name": "ymt/component",
+    "description": "test",
+    "authors": [
+        {
+            "name": "ym",
+            "email": "1151469906@qq.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Ymt\\Component\\": "src/"
+        }
+    }
+}
